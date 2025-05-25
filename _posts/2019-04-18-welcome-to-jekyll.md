@@ -1,8 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Testing"
 date: 2019-04-18T15:34:30-04:00
 categories:
-  - blog
+  - Testing
 tags:
   - Jekyll
   - update
